@@ -21,7 +21,9 @@
 .clear {
   clear: both;
 }
-
+#summer {
+  float: left;
+}
 .feature-column {
   width: 32%;
   display: inline-block;
